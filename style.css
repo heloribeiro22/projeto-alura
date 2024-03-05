@@ -4,7 +4,7 @@
     --botao-azul: #167BF7;
     --cor--de-fundo: #00030C;
     --fonte-principal: "inter";
-    --botao-azul-efeito: #68abfd;
+    --botao-azul-efeito: #66a1e9;
 }
 body{
     background-color: var(--cor--de-fundo);
